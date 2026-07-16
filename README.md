@@ -11,7 +11,7 @@ The project was completed as part of a university course. The report was written
 - Ewelina Dąbrowa
   
 ## Datasets
-- **Iris Dataset** – used for building a linear regression-based classifier.
+- **Iris Dataset** - used for building a regression-based classification model using binary class indicators.
 - **Glass Dataset** – used for comparison of different classification algorithms.
 
 ## Analysis
